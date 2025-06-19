@@ -44,4 +44,4 @@ I'm always open to collaboration, learning opportunities, and building meaningfu
 If you're working on interesting products, open-source ideas, or just want to chat about backend development — feel free to reach out:
 
 📧 **callmedisa@gmail.com**
-[LinkedIn](https://www.linkedin.com/in/dias-serikkhanov-a8a658298/)
+**[LinkedIn](https://www.linkedin.com/in/dias-serikkhanov-a8a658298/)**
