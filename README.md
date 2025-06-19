@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dias</h1>
+<h1 align="center">👋Hi, I'm Dias</h1>
 <h3 align="center">Backend Developer & Software Engineer</h3>
 
 ---
@@ -31,7 +31,7 @@ My approach is centered on writing maintainable code and understanding how syste
 
 ---
 
-### 🌱 I’m Currently Learning
+### 💻 I’m Currently Learning
 - System design and architecture
 - Test automation and CI/CD
 - Advanced PostgreSQL and query optimization
@@ -45,4 +45,4 @@ If you're working on interesting products, open-source ideas, or just want to ch
 
 📧 **callmedisa@gmail.com**
 
-**[LinkedIn](https://www.linkedin.com/in/dias-serikkhanov-a8a658298/)**
+📬 **[LinkedIn](https://www.linkedin.com/in/dias-serikkhanov-a8a658298/)**
