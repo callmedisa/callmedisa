@@ -1,55 +1,57 @@
-<h1 align="center">Hi, I'm Dias (callmedisa)</h1>
+<h1 align="center">Hi, I'm Dias</h1>
 <h3 align="center">Backend Developer & Software Engineer</h3>
 
 ---
 
-### 🧩 About Me
+### 🧑‍💻 About Me
 
-- 🔭 Currently working on: **an online survey platform**
-- 🌱 Learning: **Python backend (Flask, FastAPI), databases, Docker, system design**
-- 🛠 Interested in building clean, maintainable, and scalable systems
-- 📫 Reach me at: **callmedisa@gmail.com**
+I'm a backend developer with a focus on building practical and reliable web applications.  
+I enjoy designing clean APIs, working with databases, and solving real-world problems through code.  
+My approach is centered on writing maintainable code and understanding how systems behave in production.
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
-#### Backend
-- Python / Flask / FastAPI
-- SQLAlchemy / PostgreSQL
-- REST API Design
+#### Languages & Frameworks
+- Python (Flask, FastAPI)
+- JavaScript (React)
+- HTML / CSS
 
-#### Frontend
-- React
-- JavaScript / HTML / CSS
+#### Databases
+- PostgreSQL
+- SQLAlchemy (ORM)
+- Alembic (migrations)
 
-#### Tools
-- Docker / Docker Compose
-- Git / GitHub
+#### Tools & Infrastructure
+- Docker, Docker Compose
+- Git & GitHub
 - Nginx
-- Linux
+- Linux (Ubuntu-based environments)
 
 ---
 
-### 📊 GitHub Stats
+### 🌱 I’m Currently Learning
+- System design and architecture
+- Test automation and CI/CD
+- Advanced PostgreSQL and query optimization
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=callmedisa&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=callmedisa&show_icons=true&theme=default" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmedisa&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmedisa&layout=compact&theme=default" />
 </p>
 
 ---
 
-### 🗂 Featured Projects
-
-- [Survey Platform](https://github.com/callmedisa/survey-app)
-- [Appeals System](https://github.com/callmedisa/appeals-system) *(coming soon)*
-
----
-
-### 📝 Notes
+### 🤝 Let's Connect
 
 I'm always open to collaboration, learning opportunities, and building meaningful software.  
-Feel free to reach out or explore my work here on GitHub.
+If you're working on interesting products, open-source ideas, or just want to chat about backend development — feel free to reach out:
 
+📧 **callmedisa@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dias-serikkhanov-a8a658298/)
