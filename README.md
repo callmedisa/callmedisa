@@ -43,6 +43,5 @@ My approach is centered on writing maintainable code and understanding how syste
 I'm always open to collaboration, learning opportunities, and building meaningful software.  
 If you're working on interesting products, open-source ideas, or just want to chat about backend development — feel free to reach out:
 
-📧 **callmedisa@gmail.com**
 
 📬 **[LinkedIn](https://www.linkedin.com/in/dias-serikkhanov-a8a658298/)**
