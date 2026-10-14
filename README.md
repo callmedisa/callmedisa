@@ -24,7 +24,15 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,ts,react,nextjs,flutter,dart,docker,nginx,linux,git,pytorch&perline=7" alt="Python, Flask, FastAPI, PostgreSQL, TypeScript, React, Next.js, Flutter, Dart, Docker, Nginx, Linux, Git, PyTorch">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,ts,react,nextjs,nestjs,prisma,tailwind,flutter,dart,docker,nginx,linux,git,pytorch&perline=9" alt="Python, Flask, FastAPI, PostgreSQL, TypeScript, React, Next.js, NestJS, Prisma, Tailwind CSS, Flutter, Dart, Docker, Nginx, Linux, Git, PyTorch">
 </p>
 
 <br clear="right">
+
+### Projects:
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**ComicSpeak AI**](https://github.com/callmedisa/ComicsWeb) | Kids learn to speak English by making AI comics and reading them aloud | Next.js · NestJS · PostgreSQL · Whisper |
+| [**NutriScan**](https://github.com/callmedisa/food-nutrition-app) | Recognizes food from a photo and shows calories and macros | Flutter · FastAPI · PyTorch |
+| [**Driver Shift Diary**](https://github.com/callmedisa/driver-shift-diary) | Daily earnings app for taxi drivers | Flutter · FastAPI · Docker |
