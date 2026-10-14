@@ -1,50 +1,38 @@
-<h1 align="center">Hi, I'm Dias 👋</h1>
+<h1 align="center">Hi 👋, I'm Dias Serikkhanov</h1>
+<h3 align="center">Full-Stack Developer from Kazakhstan</h3>
 
 <p align="center">
-  <b>Full-Stack Developer</b> · Python · React / Next.js · Flutter · PostgreSQL
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E7D32&center=true&vCenter=true&width=520&lines=Python+%C2%B7+FastAPI+%C2%B7+Flask+%C2%B7+PostgreSQL;React+%C2%B7+Next.js+%C2%B7+Flutter;Building+reliable+web+and+mobile+apps" alt="Python · FastAPI · Flask · PostgreSQL — React · Next.js · Flutter">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dias-serikkhanov"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="mailto:smkndnn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Astana,_Kazakhstan-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Astana, Kazakhstan">
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=callmedisa&label=Profile%20views&color=2E7D32&style=flat" alt="callmedisa profile views">
 </p>
 
----
-
-### 🧑‍💻 About me
+<img align="right" src="assets/terminal.svg" width="420" alt="Terminal animation">
 
 - 💼 Full-stack developer building web platforms and APIs
 - 📱 Expanding into mobile development with Flutter
-- 🤖 Using AI tools every day, and checking everything with tests
+- 🤖 Using AI tools every day — and verifying with tests
 - 🎓 BSc in Cybersecurity · MSc in IT Management
+- 📫 How to reach me: **[smkndnn@gmail.com](mailto:smkndnn@gmail.com)**
 
----
+### Connect with me:
 
-### 🚀 Projects
+<p align="left">
+  <a href="https://www.linkedin.com/in/dias-serikkhanov" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>
+  <a href="mailto:smkndnn@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"></a>
+</p>
 
-| Project | Description | Stack |
-|---|---|---|
-| [**NutriScan**](https://github.com/callmedisa/food-nutrition-app) | Recognizes food from a photo and shows calories and macros | Flutter · FastAPI · PyTorch |
-| [**Driver Shift Diary**](https://github.com/callmedisa/driver-shift-diary) | Daily earnings app for taxi drivers | Flutter · FastAPI · Docker |
+### Languages and Tools:
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,ts,react,nextjs,flutter,dart,docker,nginx,linux,git,pytorch&perline=7" alt="Python, Flask, FastAPI, PostgreSQL, TypeScript, React, Next.js, Flutter, Dart, Docker, Nginx, Linux, Git, PyTorch">
+</p>
 
-### 🛠 Tech stack
+<br clear="right">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak">
-
----
-
-<p align="center"><i>Feel free to reach out!</i></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=callmedisa&show_icons=true&hide_border=true&title_color=2E7D32&icon_color=2E7D32" alt="Dias's GitHub stats" height="165">
+  <img src="https://streak-stats.demolab.com?user=callmedisa&hide_border=true&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32" alt="GitHub streak" height="165">
+</p>
