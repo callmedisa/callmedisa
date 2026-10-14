@@ -33,7 +33,7 @@
 
   <g class="mono">
     <text x="20" y="70" class="line l1"><tspan class="prompt">$ </tspan><tspan class="cmd">whoami</tspan></text>
-    <text x="20" y="94" class="line l2 out">dias — full-stack developer, Kazakhstan</text>
+    <text x="20" y="94" class="line l2 out">dias — software engineer, Kazakhstan</text>
 
     <text x="20" y="130" class="line l3"><tspan class="prompt">$ </tspan><tspan class="cmd">cat stack.txt</tspan></text>
     <text x="20" y="154" class="line l4 out">python · fastapi · flask · postgres</text>

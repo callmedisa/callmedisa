@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dias Serikkhanov</h1>
-<h3 align="center">Full-Stack Developer from Kazakhstan</h3>
+<h3 align="center">Software Engineer from Kazakhstan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E7D32&center=true&vCenter=true&width=520&lines=Python+%C2%B7+FastAPI+%C2%B7+Flask+%C2%B7+PostgreSQL;React+%C2%B7+Next.js+%C2%B7+Flutter;Building+reliable+web+and+mobile+apps" alt="Python · FastAPI · Flask · PostgreSQL — React · Next.js · Flutter">
@@ -8,7 +8,7 @@
 
 <img align="right" src="assets/terminal.svg" width="420" alt="Terminal animation">
 
-- 💼 Full-stack developer building web platforms and APIs
+- 💼 Building web platforms, APIs and mobile apps — end to end
 - 📱 Expanding into mobile development with Flutter
 - 🤖 Using AI tools every day — and verifying with tests
 - 🎓 BSc in Cybersecurity · MSc in IT Management
