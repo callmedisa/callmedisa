@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2E7D32&center=true&vCenter=true&width=520&lines=Python+%C2%B7+FastAPI+%C2%B7+Flask+%C2%B7+PostgreSQL;React+%C2%B7+Next.js+%C2%B7+Flutter;Building+reliable+web+and+mobile+apps" alt="Python · FastAPI · Flask · PostgreSQL — React · Next.js · Flutter">
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=callmedisa&label=Profile%20views&color=2E7D32&style=flat" alt="callmedisa profile views">
-</p>
 
 <img align="right" src="assets/terminal.svg" width="420" alt="Terminal animation">
 
@@ -31,8 +28,3 @@
 </p>
 
 <br clear="right">
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=callmedisa&show_icons=true&hide_border=true&title_color=2E7D32&icon_color=2E7D32" alt="Dias's GitHub stats" height="165">
-  <img src="https://streak-stats.demolab.com?user=callmedisa&hide_border=true&ring=2E7D32&fire=2E7D32&currStreakLabel=2E7D32" alt="GitHub streak" height="165">
-</p>
